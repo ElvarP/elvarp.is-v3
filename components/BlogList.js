@@ -12,7 +12,9 @@ export default function BlogList({ allPostsData, howManyBlogPostsToShow }) {
 		<>
 			<div className="max-w-xl mx-auto px-4 md:px-0">
 				<Card>
-					<div id="about" className="my-4 bg-blue-50 px-6 py-2 flex items-center ">
+					<div
+						id="about"
+						className="my-4 bg-blue-50 px-6 py-6 md:py-2 flex items-center ">
 						<Image src={ProfilePicture} width="128" height="160" alt="ElvarP" />
 						<div className="ml-4 ">
 							<h1>

@@ -1,10 +1,10 @@
 export const portfolio = [
 	{
-		title: "IcyPages.com",
-		subtitle: "Frontend",
-		description: "Free onepages for everyone",
-		image: "/images/portfolio-item-images/icypages-com-1500x1500.png",
-		openLink: "https://icypages.com",
+		title: "EPIWebsites",
+		subtitle: "Startup",
+		description: "Free Single Page Websites.",
+		image: "/images/portfolio-item-images/epi-websites-com-1500x1500.png",
+		openLink: "https://epiwebsites.com",
 		infoLink: "/posts/html-portfolio-templates",
 		previewLink: "/posts/html-portfolio-templates",
 	},
