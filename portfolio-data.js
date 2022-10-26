@@ -1,6 +1,6 @@
 export const portfolio = [
 	{
-		title: "EPIWebsites",
+		title: "EPI Websites",
 		subtitle: "Startup",
 		description: "Free Single Page Websites.",
 		image: "/images/portfolio-item-images/epi-websites-com-1500x1500.png",
