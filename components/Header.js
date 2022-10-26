@@ -57,7 +57,7 @@ export default function Header() {
 	return (
 		<>
 			<style>{css}</style>
-			<header className=" bg-neutral-200">
+			<header className=" bg-blue-50">
 				<div className="max-w-xl mx-auto grid grid-cols-1 md:grid-cols-2">
 					<div className="hero-image flex justify-center">
 						<Image priority src={ProfilePicture} alt="ElvarP" className="	" />
@@ -67,7 +67,7 @@ export default function Header() {
 							<div className="bubble p-6 md:p-4 relative">
 								<p class="text-neutral-800">
 									Hello, my screen name is <b>ElvarP.</b> Based in{" "}
-									<b>Reykjavík, Iceland.</b> Looking for <b>work.</b>
+									<b>Reykjavík,</b> Iceland. Looking for <b>work.</b>
 								</p>
 								<div className="bubble-action mt-4 flex justify-center  flex-1">
 									<Link href="/#blog">

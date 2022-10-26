@@ -3,7 +3,7 @@ import Card from "./Card"
 export default function ContactForm() {
 	return (
 		<>
-			<div id="contact" className="max-w-lg mx-auto">
+			<div id="contact" className="flex justify-center mt-20 mx-4">
 				<Card>
 					<div className="p-4  my-4">
 						<h1 className="text-3xl text-center my-4">Contact</h1>

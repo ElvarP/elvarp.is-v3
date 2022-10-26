@@ -1,0 +1,43 @@
+export const portfolio = [
+	{
+		title: "Netflix Clone",
+		subtitle: "Frontend",
+		description: "Frontend Clone of netflix.com built with Tailwindcss and Vite.js",
+		image: "/images/portfolio-item-images/netflix-clone-image-test.png",
+		infoLink: "/posts/cloning-popular-websites",
+		previewLink: "https://elvarp.github.io/netflix-clone/",
+		tags: "HTML, CSS, JavaScript, React, Nex Tailwind CSS",
+	},
+	{
+		title: "SpaceX Clone",
+		subtitle: "Frontend",
+		description: "Frontend clone of spacex.com built with Tailwindcss and Vite.js",
+		image: "/images/portfolio-item-images/spacex-clone-image-test.png",
+		infoLink: "/posts/cloning-popular-websites",
+		previewLink: "https://elvarp.github.io/spacex-clone/",
+	},
+	{
+		title: "Razer Clone",
+		subtitle: "Frontend",
+		description: "Frontend clone of razer.com built with Tailwindcss and Vite.js",
+		image: "/images/portfolio-item-images/razer-clone-image-test.png",
+		infoLink: "/posts/cloning-popular-websites",
+		previewLink: "https://elvarp.github.io/razer-clone/",
+	},
+	{
+		title: "Apple Clone",
+		subtitle: "Frontend",
+		description: "Frontend clone of apple.com built with Tailwindcss and Vite.js",
+		image: "/images/portfolio-item-images/apple-clone-image-test.png",
+		infoLink: "/posts/cloning-popular-websites",
+		previewLink: "https://elvarp.github.io/apple-clone/",
+	},
+	{
+		title: "11 HTML portfolio templates",
+		subtitle: "Frontend",
+		description: "Basic HTML portfolio templates",
+		image: "/images/portfolio-item-images/elvarp.is_orange-html5-template_.png",
+		infoLink: "/posts/html-portfolio-templates",
+		previewLink: "/posts/html-portfolio-templates",
+	},
+]
