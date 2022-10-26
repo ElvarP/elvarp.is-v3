@@ -17,8 +17,8 @@ export default function Portfolio() {
 								<Image
 									src={project.image}
 									alt={project.title}
-									width="1500"
-									height="1500"
+									width="600"
+									height="600"
 									className="rounded-t-lg border-b"
 								/>
 							</div>
